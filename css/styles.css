@@ -1,0 +1,32 @@
+/* header */
+ul {
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+.header {
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+    align-items: center;
+}
+.headerp {
+    font-size: 24px;
+    font-weight: bold;
+    color: #3D37F1;
+    font-family: 'Lato', sans-serif;
+}
+.headerspan {
+    font-size: 24px;
+    font-weight: lighter;
+    color: #4B647E;
+    font-family: 'Lato', sans-serif;
+}
+.nav_li {
+    font-size: 15px;
+    font-weight: bold;
+    color: #3D37F1;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+}

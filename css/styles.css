@@ -121,7 +121,6 @@ ul {
     border-width: 2px;
     border-color: #FFFFFF;
     border-radius: 38px;
-    /* background-color:  #FBBA77; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -170,6 +169,12 @@ ul {
     background-color: #FF8088;
     margin-top: 20px;
 }
-
-
+.div-readme :hover {
+    background-color: #FFFFFF;
+    color: #4B647E;
+    
+}
+.div-readme :hover .text-readme {
+    color: #4B647E;
+}
 
